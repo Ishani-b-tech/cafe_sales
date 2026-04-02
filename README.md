@@ -51,8 +51,8 @@ Verified that no duplicate records existed. All records were confirmed to be uni
 # 04. Handling Missing Values
 Missing values were identified and handled using logical replacement methods.
 
-Replaced missing text values with: "Not Specified"
-Recalculated missing numerical values using:
+- Replaced missing text values with: "Not Specified"
+- Recalculated missing numerical values using:
   Total Spent = Quantity × Price Per Unit
 
 This ensured numerical accuracy and data completeness.
