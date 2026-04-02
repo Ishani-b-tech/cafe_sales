@@ -100,13 +100,14 @@ Verified that the remaining data was complete and reliable
 The dataset became more reliable and suitable for analysis by removing low-quality records.
 
 # Data Quality Improvements Summary
-  # Issue	Action                   Taken
-Check duplicates        |    Not found
-Missing Values	        |    Replaced with "Not Specified"
-Invalid Values	        |    Standardized text values
-Incorrect Data Types	  |    Corrected formats
-Incomplete Rows	        |    Removed 57 rows
-Data Accuracy	          |    Recalculated missing totals
+|  Issue | Action Taken |
+|--------|--------------|
+|Check duplicates|Not found|
+|Missing Values|Replaced with "Not Specified"|
+|Invalid Values|Standardized text values|
+|Incorrect Data Types|Corrected formats|
+|Incomplete Rows|Removed 57 rows|
+|Data Accuracy|Recalculated missing totals|
 
 # Files Included
 Raw Dataset — Original messy dataset
