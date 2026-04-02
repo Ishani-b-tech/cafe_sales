@@ -4,13 +4,13 @@ This project focuses on cleaning a messy cafe sales dataset using Microsoft Exce
 The dataset contained missing values, invalid entries, inconsistent formats, and incorrect data types. After applying structured data cleaning techniques, the dataset became suitable for reliable data analysis and visualization.
 
 # Dataset Information
--Dataset Name: Cafe Sales Data
--Original Rows: 10,000  
--Final Rows After Cleaning: 9,943  
--Rows Removed: 57
--Columns: 8
--Tool Used: Microsoft Excel
--File Format: Excel (.xlsx)
+- Dataset Name: Cafe Sales Data
+- Original Rows: 10,000  
+- Final Rows After Cleaning: 9,943  
+- Rows Removed: 57
+- Columns: 8
+- Tool Used: Microsoft Excel
+- File Format: Excel (.xlsx)
 
 # Columns in Dataset:
 -Transaction ID
