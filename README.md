@@ -75,9 +75,9 @@ Missing Item values were logically recovered instead of being replaced with gene
 Invalid and inconsistent values were standardized.
 
 Replacements Applied:
-  UNKNOWN → Not Specified
-  Blank Cells → Not Specified
-  Error → Invalid Data
+  - UNKNOWN → Not Specified
+  - Blank Cells → Not Specified
+  - Error → Invalid Data
 
 This improved consistency across categorical fields
 
