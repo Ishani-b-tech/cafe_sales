@@ -110,9 +110,9 @@ The dataset became more reliable and suitable for analysis by removing low-quali
 |Data Accuracy|Recalculated missing totals|
 
 # Files Included
-Raw Dataset — Original messy dataset
-Cleaned Dataset — Final cleaned dataset
-Documentation — Detailed cleaning steps
+Raw Dataset :Original messy dataset
+Cleaned Dataset : Final cleaned dataset
+Documentation : Detailed cleaning steps
 
 # Tools Used
 Microsoft Excel
