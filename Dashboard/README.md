@@ -13,3 +13,9 @@ This dashboard was designed to answer key business questions:
 - How do sales perform across months?
 - What payment methods are most used?
 - What are the cost and profitability differences between products?
+# Tools & Technologies Used
+- Microsoft Power BI
+- Power Query – Data Cleaning & Transformation
+- DAX (Data Analysis Expressions) – KPI Calculations
+- Data Modeling – Relationship building
+- Interactive Dashboard Design
