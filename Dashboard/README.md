@@ -19,3 +19,16 @@ This dashboard was designed to answer key business questions:
 - DAX (Data Analysis Expressions) – KPI Calculations
 - Data Modeling – Relationship building
 - Interactive Dashboard Design
+# Dataset Information
+Dataset Name: Cafe Sales Data
+Time Period: 2023
+Data Includes:
+
+- Transaction Date
+- Item Name
+- Quantity Sold
+- Price Per Unit
+- Total Income
+- Profit
+- Payment Method
+- Cost Per Item
