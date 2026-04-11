@@ -120,14 +120,14 @@ Key Insights:
 - Analyzed product sales volume
 
 # Sample DAX Measures Used
-Profit Margin %
+- Profit Margin %
 Profit Margin % =
 DIVIDE(
     SUM('Cafe Sales'[Profit]),
     SUM('Cafe Sales'[Total Income]),
     0
 )
-Most Profitable Item
+- Most Profitable Item
 Most Profitable Item =
 VAR TopItem =
     TOPN(
@@ -143,12 +143,10 @@ VAR TopItem =
 
 RETURN
     MAXX(TopItem, 'Cafe Sales'[Item])
-Revenue Per Item
+- Revenue Per Item
 Revenue Per Item =
 DIVIDE(
     SUM('Cafe Sales'[Total Income]),
     SUM('Cafe Sales'[Quantity]),
     0
 )
-
-
